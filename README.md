@@ -1,4 +1,4 @@
-# dreamy-architecture-xrj5c4
+# ramp-hidden-url-flag-fetcher
 Created with CodeSandbox
 # Ramp CTF Challenge – React Typewriter Flag App
 
