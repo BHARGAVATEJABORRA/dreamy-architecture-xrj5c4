@@ -1,5 +1,5 @@
 # ramp-hidden-url-flag-fetcher
-Created with CodeSandbox
+Created with CodeSandbox # https://codesandbox.io/p/github/BHARGAVATEJABORRA/dreamy-architecture-xrj5c4/main
 # Ramp CTF Challenge – React Typewriter Flag App
 
 This project is a solution to the Ramp CTF (Capture The Flag) challenge. The goal was to extract a hidden flag from a DOM structure, retrieve it using a React frontend, and display it with a simulated typewriter animation — one character every 500ms.
